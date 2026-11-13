@@ -1,0 +1,14 @@
+attribute,role,description
+fixed acidity,preditor,Acidez fixa medida em teste físico-químico.
+volatile acidity,preditor,Acidez volátil medida em teste físico-químico.
+citric acid,preditor,Ácido cítrico medido em teste físico-químico.
+residual sugar,preditor,Açúcar residual medido em teste físico-químico.
+chlorides,preditor,Cloretos medidos em teste físico-químico.
+free sulfur dioxide,preditor,Dióxido de enxofre livre medido em teste físico-químico.
+total sulfur dioxide,preditor,Dióxido de enxofre total medido em teste físico-químico.
+density,preditor,Densidade medida em teste físico-químico.
+pH,preditor,pH medido em teste físico-químico.
+sulphates,preditor,Sulfatos medidos em teste físico-químico.
+alcohol,preditor,Teor alcoólico medido em teste físico-químico.
+quality,alvo,"Nota sensorial de 0 a 10. Na documentação do dataset, é a mediana de pelo menos três avaliações feitas por especialistas."
+type,preditor,Tipo de vinho acrescentado neste projeto: branco = 0 e tinto = 1.
